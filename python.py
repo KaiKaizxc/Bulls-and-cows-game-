@@ -1,4 +1,7 @@
 #Bulls & Cows Game 
+import random
+
+
 def generator():
     a= str(random.randint(0,9))
     b= str(random.randint(0,9))
